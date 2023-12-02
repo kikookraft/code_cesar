@@ -1,12 +1,3 @@
-# Rendu:
-# Rappel des methodes
-# Codes comentés
-# Jeux de test (minium 3 bon exemples)
-# Résultats
-# Date de rendu: 08 décembre 2023
-
-
-
 import random
 
 ###### UTILITAIRES ######

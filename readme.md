@@ -28,8 +28,7 @@ Le programme demande ensuite a l'utilisateur un mode (chiffrage ou déchiffrage)
 ## Code Inverse
 > Fonction `optimized_crypt` ligne `64`
 
-Le code inverse est un code très simple qui consiste à inverser l'ordre des lettres d'un message.  
-Au lieu de la fonction donné dans l'énnoncé, nous avons utilisé un manière plus simple de faire la fonction grace a python (en inversant directement la liste).  
+Le code inverse est un code très simple qui consiste à inverser l'ordre des lettres d'un message.
 ### Exemples
 - `Bonjour` > `ruojnoB`
 - `Bonjour, comment allez-vous?` > `?uov-zeulla tnemmoc ,ruojnoB`
