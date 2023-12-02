@@ -1,5 +1,4 @@
 # Code & chiffrage
-Tomy Besson & Lenny Bay
 ## Table des matières
 - [Code Inverse](#code-inverse)
     - [Exemples](#exemples) 
